@@ -1,0 +1,15 @@
+.class_one,
+.class_two{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.class_one{
+background-color: #000000;
+color: hsl(0, 0%, 100%);
+font-weight: bold;
+}
+
+.class_two{
+background-color: #ffff00;
+}
